@@ -1,0 +1,8 @@
+{
+    "DESIGN_NAME": "vedic4x4",
+    "VERILOG_FILES": "dir::src/vedic4x4.v",
+    "CLOCK_PORT": "",
+    "CLOCK_PERIOD": 10,
+    "PL_TARGET_DENSITY": 0.62,
+    "FP_PDN_MULTILAYER": true
+}
